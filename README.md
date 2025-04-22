@@ -1,4 +1,4 @@
-#Simulación de Tiempos de Espera en una Planta de Concreto
+## Simulación de Tiempos de Espera en una Planta de Concreto
 
 Este proyecto utiliza el método de **Simulación Monte Carlo** para modelar y analizar el sistema de carga de camiones en una planta de concreto. Se busca evaluar el tiempo de espera que se genera cuando los camiones llegan aleatoriamente a cargar materiales y hay una cantidad limitada de silos en operación.
 
